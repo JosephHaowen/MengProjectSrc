@@ -1,0 +1,22 @@
+(
+	
+	[DateStart] bigint,
+	[DateEnd] bigint,
+	[Year] bigint,
+	[Month] bigint,
+	
+	[DayOfMonth] bigint,
+	[DayYearStart] bigint,
+	[DayYearEnd] bigint,
+	[AggLevel] bigint,
+	
+	[CountyFIPS] bigint,
+	
+	[StateFIPS] bigint,
+
+	[FIPS] bigint,	
+	[CLU_ID] bigint,
+	
+	[Value] float,
+
+)
